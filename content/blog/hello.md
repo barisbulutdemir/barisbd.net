@@ -8,5 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit tempor ma
 
 ​		
 
-<img src="C:\Users\Baris\Documents\GitHub\barisbd.net\themes\meme\images\tn.png" style="zoom:50%;" />
+![/img/exca.jpg]()
+
+
 
