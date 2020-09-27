@@ -8,7 +8,9 @@ draft: false
 
 
 
-​	 25 gerçekten çok önemli bir yaş. Bir insanın, özellikle de bir erkeğin pik yaptığı noktadır. Bazı şeyler için 30 çok geç 20 çok erken olabilir. Bu yaşlarda genelde insan gerçek sorumluluklarının neler olduğunu görür ve bunu kabul eder. Şahsen benim için çok zor ve sancılı süreçlerdi. Eminim bu ülkede yaşayan çoğu kişi için de böyle olmuştur.
+	<p> 25 gerçekten çok önemli bir yaş. Bir insanın, özellikle de bir erkeğin pik yaptığı noktadır. Bazı şeyler için 30 çok geç 20 çok erken olabilir. Bu yaşlarda genelde insan gerçek sorumluluklarının neler olduğunu görür ve bunu kabul eder. Şahsen benim için çok zor ve sancılı süreçlerdi. Eminim bu ülkede yaşayan çoğu kişi için de böyle olmuştur.</p>
+	
+	
 
 
 
