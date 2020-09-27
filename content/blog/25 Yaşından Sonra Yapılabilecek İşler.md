@@ -12,6 +12,12 @@ draft: false
 
 &nbsp;
 
+&nbsp;
+
+&nbsp;
+
+
+
 
 
 
@@ -22,9 +28,17 @@ draft: false
 
 
 
+&nbsp;
+
+&nbsp;
+
 
 
 ​	 İnsanlarımızda genelde 'üniversite okumak iyidir'  olayı mevcut. Bence hiç de öyle değil.  Şahsen ben keşke hiç gitmeseydim diyorum. Çünkü gerçekten hiçbir işime yaramadı ve yarayacağını da düşünmüyorum. Birçok insan için de böyledir eminim. Eğer spesifik bir bölüm okumayacaksınız, okuduğunuz bölümle aile/akraba işini yapmayacaksanız yada torpiliniz yoksa işiniz zor. KPSS kasmak zorundasınız. Bu da gerçekten sancılı bir süreç. Üniversitede tercih edilebilecek en mantıklı bölümler ile ilgili de bir şeyler yazmayı düşünüyorum. 
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 
@@ -35,6 +49,12 @@ draft: false
 &nbsp;
 
 
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 
 
@@ -48,9 +68,13 @@ draft: false
 
 ###  Operatörlük
 
-&nbsp;
+&nbsp;&nbsp;
+
+
 
 ​	 Bence en zevkli mesleklerden biri. Makine operatörlüğü. Kepçe, excavator, loader, JCB tarzı makineleri kullanmak. Bunlar tamamen tecrübeye dayalı şeyler. Emin olun aşırı zevk alabileceğiniz işler. Ayrıca şöyle de bir noktası var. Diyelim ki ufak bir yerde yaşıyorsunuz. Çok fazla makinesi olan yok. Kendinizi geliştirdikten sonra 2. el ucuza kendi makinenizi alıp iş yapabilirsiniz. Bunlar çok zor imkansız şeyler değil. 
+
+&nbsp;
 
 &nbsp;
 
@@ -60,11 +84,17 @@ draft: false
 
 &nbsp;
 
+&nbsp;
+
 
 
 ​	 Bu kısa bir süreç değil elbet. Öyle 1-2 ayda bitecek bir şey değil. Belki 1 yıl belki daha fazla sürecek. Ama işin sonunda sana kalıcı bir meslek sağlicak. Değmez mi ? Bence değer.
 
 &nbsp;
+
+&nbsp;
+
+
 
 ​	 Makine operatörlerinin maaşları Türkiye içinde en düşük 3500 den başlar. Ki bu en ölü rakamdır. Tecrübeniz arttıkça yaptığınız işe göre artar. Ortalama 4.5 diyelim. Kullandığınız makine yeri geldiğinde trilyonluk makine.
 
@@ -76,6 +106,16 @@ draft: false
 
 &nbsp;&nbsp;
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
+
 ###   Sanayi İşleri
 
  &nbsp;
@@ -84,15 +124,31 @@ draft: false
 
 &nbsp;
 
-​	 Bu tarz işlerde gelirinizin belli bir rakamı yok. Elinizden gelen işe ve yapabildiğiniz iş sayısına bağlı. Çok geçerli ve her zaman para kazandırabilecek işler.
+&nbsp;
 
 &nbsp;
+
+&nbsp;
+
+
+
+​	 Bu tarz işlerde gelirinizin belli bir rakamı yok. Elinizden gelen işe ve yapabildiğiniz iş sayısına bağlı. Çok geçerli ve her zaman para kazandırabilecek işler.
+
+&nbsp;&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
 
 ###  Ticaret
 
 &nbsp;
 
 ​	 Ticaretin kanınızda olması gerekiyor biraz. Gözü açık ve araştırmacı konuşkan olmalısınız. Alıp satabileceğiniz bir ton şey var. En basitinden n11 trendyol gibi sitelerde toptan mal alıp satabilirsiniz. Her türlü getiri elde eder. Benim şuan ki planım plastik enjeksiyon makinesi yapıp bir şeyler üretmek. Kafamda böyle bir düşünce var. Neden olmasın. Neden yapılamasın. Bence basit bir işte asgari ücrete çalışmaktan çok daha iyidir. 
+
+&nbsp;
 
 &nbsp;
 
