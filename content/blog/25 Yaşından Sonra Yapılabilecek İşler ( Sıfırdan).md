@@ -34,7 +34,7 @@
 
  Makine operatörlerinin maaşları Türkiye içinde en düşük 3500 den başlar. Ki bu en ölü rakamdır. Tecrübeniz arttıkça yaptığınız işe göre artar. Ortalama 4.5 diyelim. Kullandığınız makine yeri geldiğinde trilyonluk makine.
 
-
+![](https://www.barisbd.net/img/eee.gif)
 
 ###   Sanayi İşleri
 
